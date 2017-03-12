@@ -1,0 +1,40 @@
+QPushButton#button_fillColor
+{
+background-color: #000000;
+border-style: solid;
+border-width: 1px;
+border-color: #999999;
+border-radius: 4px;
+}
+QPushButton#button_strokeColor
+{
+background-color: #000000;
+border-style: solid;
+border-width: 1px;
+border-color: #999999;
+border-radius: 4px;
+}
+
+QTabBar#centralTabBar::close-button
+{
+background-image: url(:/icons/gfx/icons/close.png);
+background-repeat: no-repeat;
+}
+QTabBar#centralTabBar::close-button:hover
+{
+background-image: url(:/icons/gfx/icons/close_hover.png);
+background-repeat: no-repeat;
+}
+QStatusBar
+{
+border-style: solid none none none;
+border-width: 1px;
+border-color: #999999;
+}
+
+PaintArea#paintArea
+{
+border-style: solid;
+border-width: 1px;
+border-color: #999999;
+}

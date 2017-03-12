@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>gfx/icons/lineTool.png</file>
+        <file>gfx/icons/ellipseTool.png</file>
+        <file>gfx/icons/rectangleTool.png</file>
+        <file>gfx/icons/freehandTool.png</file>
+        <file>gfx/icons/icon.png</file>
+        <file>gfx/icons/selectTool.png</file>
+        <file>gfx/line_solid.png</file>
+        <file>gfx/line_dash.png</file>
+        <file>gfx/line_dot.png</file>
+        <file>gfx/line_empty.png</file>
+        <file>gfx/line_dashdotdot.png</file>
+        <file>gfx/line_dashdot.png</file>
+        <file>gfx/icons/close.png</file>
+        <file>gfx/icons/close_hover.png</file>
+        <file>gfx/icons/polygonTool.png</file>
+        <file>gfx/mouse_black.png</file>
+    </qresource>
+</RCC>
